@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/xuanjian/zhongqidinghuobao.git/changjuUhui.ipa</string>
+					<string>https://raw.githubusercontent.com/xuanjian/zhongqidinghuobao/master/changjuUhui.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/xuanjian/zhongqidinghuobao.git/icon57-57.png</string>
+					<string>https://raw.githubusercontent.com/xuanjian/zhongqidinghuobao/master/icon57-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/xuanjian/zhongqidinghuobao.git/icon512-512.png</string>
+					<string>https://raw.githubusercontent.com/xuanjian/zhongqidinghuobao/master/icon512-512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
